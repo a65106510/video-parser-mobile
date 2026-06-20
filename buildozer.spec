@@ -38,7 +38,7 @@ android.api = 30
 android.minapi = 21
 
 # (str) Android NDK version to use
-android.ndk = 23b
+android.ndk = 27
 
 # (bool) If True, then skip trying to update the Android sdk
 android.skip_update = False
@@ -71,7 +71,7 @@ android.debug_artifact = apk
 # android.sdk_path = 
 
 # (str) The directory containing the Android NDK
-# android.ndk_path = 
+android.ndk_path = /usr/local/lib/android/sdk/ndk/27.3.13750724 
 
 # (str) The directory containing the Android Build Tools
 # android.build_tools_path = 
